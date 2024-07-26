@@ -3,9 +3,9 @@
 A Go project that adds an option to the Windows context menu to copy a file to the clipboard. Can copy any utf-8 encoded file.
 
 ## Command Line Usage
-No Arguments: Add program to the context menu for its current exe location
--u: Removes program from context menu
-File Path: Attempts to copy the file to the windows clipboard
+No Arguments: Add program to the context menu for its current exe location \
+-u: Removes program from context menu \
+File Path: Attempts to copy the file to the windows clipboard \
 
 ## Building
 ### Inside go bin
