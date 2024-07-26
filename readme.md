@@ -5,7 +5,7 @@ A Go project that adds an option to the Windows context menu to copy a file to t
 ## Command Line Usage
 No Arguments: Add program to the context menu for its current exe location \
 -u: Removes program from context menu \
-File Path: Attempts to copy the file to the windows clipboard \
+File Path: Attempts to copy the file to the windows clipboard 
 
 ## Building
 ### Inside go bin
